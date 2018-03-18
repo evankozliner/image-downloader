@@ -8,9 +8,9 @@ from functools import partial
 from build_dataset import FINAL_DATASET_NAME
 
 ISIC_ENDPOINT = 'https://isic-archive.com/api/v1/image/{}/download'
-OUTPUT_M = 'images/malignant'
-OUTPUT_B = 'images/benign'
-OUT_PATH = 'out/{}/{}'
+OUTPUT_M = '~/images/malignant'
+OUTPUT_B = '~/images/benign'
+OUT_PATH = '~/out/{}/{}'
 
 def main():
     metadata = pd.read_csv(FINAL_DATASET_NAME)
