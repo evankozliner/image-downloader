@@ -17,9 +17,14 @@ def main():
             with open(metadata_path, 'r') as f:
                 metadata = json.loads(f.read())
 
+            print metadata
             meta = metadata['meta']
             aquisition = meta['acquisition']
             clinical = meta['clinical']
+            if not 'benign_malignant' in clinical \
+                    or not 'age_approx' in clinical\
+                    or not 'sex' in clinical:
+                continue
             writer.writerow([
                     metadata['_id'],
                     metadata['name'],
