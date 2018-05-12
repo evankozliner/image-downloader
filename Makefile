@@ -1,5 +1,4 @@
 all:
-	sudo apt-get install python2.7
-	mkdir -p ~/out/images/malignant
-	mkdir -p ~/out/images/benign
-
+	mkdir -p ~/images/malignant
+	mkdir -p ~/images/benign
+	python2 download_images.py
