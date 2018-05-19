@@ -1,0 +1,1 @@
+{"_id": "581cda749fc3c13dcd0e4ba9", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 80, "sex": "male", "diagnosis": "seborrheic keratosis", "diagnosis_confirm_type": "histopathology", "nevus_type": null, "melanocytic": false}, "acquisition": {"image_type": "dermoscopic", "pixelsX": 4288, "pixelsY": 2848}}, "name": "ISIC_0014419"}

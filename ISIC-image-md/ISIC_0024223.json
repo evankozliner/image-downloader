@@ -1,0 +1,1 @@
+{"_id": "5aa303431165972a9e961828", "meta": {"clinical": {"benign_malignant": "malignant", "age_approx": 65, "sex": "female", "diagnosis": "squamous cell carcinoma", "diagnosis_confirm_type": "histopathology", "melanocytic": false}, "acquisition": {"image_type": "clinical", "pixelsX": 2240, "pixelsY": 1488}}, "name": "ISIC_0024223"}

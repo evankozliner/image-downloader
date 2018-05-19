@@ -1,0 +1,1 @@
+{"_id": "5592dc919fc3c13155145ab7", "meta": {"clinical": {"benign_malignant": "malignant", "age_approx": 80, "sex": "male", "diagnosis": "squamous cell carcinoma", "diagnosis_confirm_type": "histopathology", "melanocytic": false}, "acquisition": {"image_type": "dermoscopic", "dermoscopic_type": "contact non-polarized", "pixelsX": 6668, "pixelsY": 4419}}, "name": "ISIC_0011726"}

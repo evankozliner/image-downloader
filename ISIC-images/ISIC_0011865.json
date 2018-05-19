@@ -1,0 +1,1 @@
+{"_id": "5593f47b9fc3c131551460fc", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 45, "sex": "male", "diagnosis": "dermatofibroma", "diagnosis_confirm_type": "histopathology", "melanocytic": false}, "acquisition": {"image_type": "dermoscopic", "dermoscopic_type": "contact non-polarized", "pixelsX": 6688, "pixelsY": 4439}}, "name": "ISIC_0011865"}

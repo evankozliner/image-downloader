@@ -1,0 +1,1 @@
+{"_id": "5aaf15ea116597691364539a", "meta": {"clinical": {"benign_malignant": "malignant", "diagnosis_confirm_type": "histopathology", "melanocytic": true, "diagnosis": "melanoma", "sex": "male"}, "acquisition": {"image_type": "dermoscopic", "pixelsX": 600, "pixelsY": 450}}, "name": "ISIC_0033708"}

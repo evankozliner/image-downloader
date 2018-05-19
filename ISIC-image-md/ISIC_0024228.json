@@ -1,0 +1,1 @@
+{"_id": "5aa3045d1165972a9e9618af", "meta": {"clinical": {"benign_malignant": "malignant", "mel_thick_mm": 0.0, "age_approx": 85, "mel_class": "melanoma in situ", "sex": "male", "diagnosis": "melanoma", "diagnosis_confirm_type": "histopathology", "melanocytic": true}, "acquisition": {"image_type": "clinical", "pixelsX": 2240, "pixelsY": 1488}}, "name": "ISIC_0024228"}

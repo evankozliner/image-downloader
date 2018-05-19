@@ -1,0 +1,1 @@
+{"_id": "559437c79fc3c13155146649", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 45, "sex": "male", "diagnosis": "lentigo simplex", "diagnosis_confirm_type": "histopathology", "melanocytic": true}, "acquisition": {"image_type": "dermoscopic", "dermoscopic_type": "contact non-polarized", "pixelsX": 6701, "pixelsY": 4442}}, "name": "ISIC_0012072"}

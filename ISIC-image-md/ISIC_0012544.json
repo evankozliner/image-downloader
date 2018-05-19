@@ -1,0 +1,1 @@
+{"_id": "57eea3fe9fc3c12a89bb602e", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 50, "sex": "female", "diagnosis": "nevus", "diagnosis_confirm_type": "histopathology", "nevus_type": "plexiform spindle cell", "melanocytic": true}, "acquisition": {"image_type": "dermoscopic", "pixelsX": 4288, "pixelsY": 2848}}, "name": "ISIC_0012544"}

@@ -2,7 +2,7 @@ import os
 import csv
 import json
 
-METADATA_PATH = 'ISIC-images/'
+METADATA_PATH = 'ISIC-images-md/'
 METADATA_NAME = 'metadata.csv'
 
 def main():

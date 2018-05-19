@@ -1,0 +1,1 @@
+{"_id": "54e755f5bae47850e86cdfea", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 55, "sex": "female", "diagnosis": "lichenoid keratosis", "diagnosis_confirm_type": "histopathology", "melanocytic": false}, "acquisition": {"image_type": "dermoscopic", "pixelsX": 3072, "pixelsY": 2304}}, "name": "ISIC_0001107"}

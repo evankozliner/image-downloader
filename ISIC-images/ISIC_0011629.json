@@ -1,0 +1,1 @@
+{"_id": "5592cfca9fc3c131551458f0", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 50, "sex": "female", "diagnosis": "angioma", "diagnosis_confirm_type": "histopathology", "melanocytic": false}, "acquisition": {"image_type": "dermoscopic", "dermoscopic_type": "contact non-polarized", "pixelsX": 6688, "pixelsY": 4459}}, "name": "ISIC_0011629"}

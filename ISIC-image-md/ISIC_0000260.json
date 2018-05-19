@@ -1,0 +1,1 @@
+{"_id": "5436e3cebae478396759f2d9", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 10, "sex": "male", "diagnosis": "nevus", "diagnosis_confirm_type": null, "melanocytic": true}, "acquisition": {"image_type": "dermoscopic", "pixelsX": 1024, "pixelsY": 768}}, "name": "ISIC_0000260"}

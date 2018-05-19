@@ -1,0 +1,1 @@
+{"_id": "559435fe9fc3c131551464df", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 65, "sex": "female", "diagnosis": "nevus", "diagnosis_confirm_type": "histopathology", "melanocytic": true}, "acquisition": {"image_type": "dermoscopic", "dermoscopic_type": "contact non-polarized", "pixelsX": 6681, "pixelsY": 4440}}, "name": "ISIC_0012001"}

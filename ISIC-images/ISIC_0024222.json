@@ -1,0 +1,1 @@
+{"_id": "5aa303171165972a9e96180d", "meta": {"clinical": {"benign_malignant": "malignant", "mel_thick_mm": 0.0, "age_approx": 70, "mel_class": "melanoma in situ", "sex": "female", "diagnosis": "melanoma", "diagnosis_confirm_type": "histopathology", "melanocytic": true}, "acquisition": {"image_type": "clinical", "pixelsX": 3024, "pixelsY": 2016}}, "name": "ISIC_0024222"}

@@ -1,0 +1,1 @@
+{"_id": "5aa315da1165972a9e962047", "meta": {"clinical": {"benign_malignant": "malignant", "mel_thick_mm": 0.4, "age_approx": 55, "mel_class": "invasive melanoma", "sex": "female", "diagnosis": "melanoma", "diagnosis_confirm_type": "histopathology", "melanocytic": true}, "acquisition": {"image_type": "clinical", "pixelsX": 3008, "pixelsY": 2000}}, "name": "ISIC_0024300"}

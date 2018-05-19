@@ -1,0 +1,1 @@
+{"_id": "5592dc5c9fc3c13155145a5d", "meta": {"clinical": {"benign_malignant": "benign", "age_approx": 85, "sex": "female", "diagnosis": "solar lentigo", "diagnosis_confirm_type": "histopathology", "melanocytic": false}, "acquisition": {"image_type": "dermoscopic", "dermoscopic_type": "contact non-polarized", "pixelsX": 6768, "pixelsY": 4499}}, "name": "ISIC_0011708"}

@@ -1,0 +1,1 @@
+{"_id": "5aa30af81165972a9e961c0f", "meta": {"clinical": {"benign_malignant": "malignant", "age_approx": 55, "sex": "male", "diagnosis": "basal cell carcinoma", "diagnosis_confirm_type": "histopathology", "melanocytic": false}, "acquisition": {"image_type": "clinical", "pixelsX": 2880, "pixelsY": 1800}}, "name": "ISIC_0024260"}
