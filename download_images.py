@@ -8,7 +8,7 @@ from os.path import expanduser
 from functools import partial
 
 ISIC_ENDPOINT = 'https://isic-archive.com/api/v1/image/{}/download'
-OUT_PATH = expanduser('~') + '/images/{}/{}'
+OUT_PATH = expanduser('~') + '/images/{}/{}.jpg'
 
 def main():
     metadata = pd.read_csv('metadata.csv')
