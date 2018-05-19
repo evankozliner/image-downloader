@@ -11,7 +11,7 @@ ISIC_ENDPOINT = 'https://isic-archive.com/api/v1/image/{}/download'
 OUT_PATH = expanduser('~') + '/images/{}/{}'
 
 def main():
-    metadata = pd.read_csv('test_data_download_format.csv')
+    metadata = pd.read_csv('metadata.csv')
     ids = metadata['id']
     malignancy = metadata['benign_malignant']
 
